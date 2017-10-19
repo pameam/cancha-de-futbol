@@ -1,0 +1,78 @@
+body{
+  position: relative;
+  margin:auto;
+  overflow: hidden;
+}
+.rectangulo {
+     width: 1000px;
+     height: 500px;
+     background: #5cb85c;
+     }
+   .rectangulo2{
+        position: relative;
+        width: 920px;
+        height: 430px;
+        border: 7px solid white;
+        background: #5cb85c;
+        margin-top: -470px;
+        margin-left: 30px;
+        }
+.circulo {
+     position: relative;
+     width: 200px;
+     height: 200px;
+     border-radius: 50%;
+     border: 7px solid white;
+     margin-top: -330px;
+     margin-left: 400px;
+
+}
+.rectangulo3 {
+     position: relative;
+     width: 150px;
+     height: 250px;
+     border: 7px solid white;
+     margin-top: -250px;
+     margin-left: 30px;
+     }
+ .rectangulo4 {
+    position: relative;
+     width: 150px;
+     height: 250px;
+     border: 7px solid white;
+     margin-top: -263px;
+     margin-left: 800px;
+      }
+  .pelota1{
+    position: relative;
+    width: 20px;
+    height:20px;
+    background-color: white;
+    border-radius:50%;
+    border: 7px solid white;
+    top: -260px;
+    left: 155px;
+    box-shadow: 2px 2px 5px #999
+  }
+  .pelota2{
+    position: relative;
+    width: 20px;
+    height:20px;
+    background-color: white;
+    border-radius:50%;
+    border: 7px solid white;
+    top: -330px;
+    left: 510px;
+    box-shadow: 2px 2px 5px #999
+  }
+  .pelota3{
+    position: relative;
+    width: 20px;
+    height:20px;
+    background-color: white;
+    border-radius:50%;
+    border: 7px solid white;
+    top: -120px;
+    left: 765px;
+    box-shadow: 2px 2px 5px #999
+  }
